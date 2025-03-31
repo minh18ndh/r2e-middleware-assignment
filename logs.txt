@@ -16,15 +16,3 @@ Path: /test
 Query String: 
 Request Body: 
 
-Schema: http
-Host: localhost:5182
-Path: /test
-Query String: 
-Request Body: 
-
-Schema: http
-Host: localhost:5182
-Path: /test
-Query String: 
-Request Body: 
-

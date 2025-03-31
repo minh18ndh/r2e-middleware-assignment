@@ -30,3 +30,4 @@ C:\Users\minhn\Downloads\MyMiddleware\bin\Debug\net8.0\Swashbuckle.AspNetCore.Sw
 C:\Users\minhn\Downloads\MyMiddleware\obj\Debug\net8.0\MyMiddleware.csproj.AssemblyReference.cache
 C:\Users\minhn\Downloads\MyMiddleware\obj\Debug\net8.0\MyMiddleware.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\minhn\Downloads\MyMiddleware\obj\Debug\net8.0\MyMiddle.F2DAB45E.Up2Date
+C:\Users\minhn\Downloads\MyMiddleware\obj\Debug\net8.0\MyMiddleware.sourcelink.json
